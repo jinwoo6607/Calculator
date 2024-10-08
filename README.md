@@ -11,3 +11,8 @@ This program was created with chat gpt
 5.Show off your skills with a different color combination. You're good at this.
 
 6.Change the color of the lines to the right of the operators /,*,-,+ to orange so that they can be distinguished.
+
+
+
+
+<img width="523" alt="스크린샷 2024-10-08 141824" src="https://github.com/user-attachments/assets/635427ae-b40a-41f3-beac-16784b543323">
